@@ -15,6 +15,7 @@ a:active {
 /* Окна и кнопка */
 li:hover,
 button:hover {
+  transition-duration: 0.4s;
   box-shadow: 0px 0px 8px 2px rgb(132, 103, 146);
 }
 /* Шапка сайта */
